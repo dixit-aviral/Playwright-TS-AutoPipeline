@@ -1,8 +1,54 @@
-
-# Playwright
+# Node.js dependencies
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Playwright test artifacts
+test-results/
+playwright-report/
+allure-report/
+*.zip
+*.tar.gz
+
+# Screenshots, videos, traces
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.webm
+*.webp
+*.trace.zip
+
+# Coverage reports
+coverage/
+lcov-report/
+
+# TypeScript build output
+dist/
+out/
+*.tsbuildinfo
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Jenkins-specific artifacts
+.jenkins/
+workspace/
+*.log
+*.tmp
+
+# Misc
+*.bak
