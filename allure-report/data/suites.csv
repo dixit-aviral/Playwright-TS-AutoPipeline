@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30483","Client App login QWERTY","webkit","2026-06-02","broken","2026-06-02","","example.spec.ts","",""
+"","30347","Client App login ZARA COAT 3","firefox","2026-06-02","broken","2026-06-02","","example.spec.ts","",""
+"","30623","Client App login ZARA COAT 3","chromium","2026-06-02","broken","2026-06-02","","example.spec.ts","",""
+"","30671","Client App login QWERTY","chromium","2026-06-02","broken","2026-06-02","","example.spec.ts","",""
+"","30492","Client App login QWERTY","firefox","2026-06-02","broken","2026-06-02","","example.spec.ts","",""
+"","13571","Client App login ZARA COAT 3","webkit","2026-06-02","passed","2026-06-02","","example.spec.ts","",""

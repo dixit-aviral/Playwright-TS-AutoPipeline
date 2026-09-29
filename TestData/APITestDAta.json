@@ -1,0 +1,12 @@
+
+    {
+        "BaseAPIURL": "https://rahulshettyacademy.com",
+        "username": "apitest2602@example.com",
+        "password": "Test1111",
+        "LoginAPIendpoint":"/api/ecom/auth/login",
+
+        "OrderAPIendpoint": "/api/ecom/order/create-order",
+        "OrderProduct": "6960eac0c941646b7a8b3e68",
+        "OrderCountry": "Cuba"
+
+    }

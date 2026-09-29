@@ -1,0 +1,14 @@
+[
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro',
+  'qwerty',
+  'qwerty',
+  'qwerty',
+  'qwerty',
+  'car'
+]
+8
+ADIDAS ORIGINAL
+ZARA COAT 3
+Product added to cart
