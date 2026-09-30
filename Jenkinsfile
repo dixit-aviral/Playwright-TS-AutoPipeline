@@ -29,10 +29,10 @@ pipeline {
         }
     }
 
-    post {
-        always {
-            junit 'playwright-report/*.xml' // if you generate JUnit XML reports
-            archiveArtifacts artifacts: 'playwright-report/**', fingerprint: true
-        }
+   post {
+    always {
+        archiveArtifacts artifacts: 'allure-results/**', fingerprint: true
     }
+}
+
 }
