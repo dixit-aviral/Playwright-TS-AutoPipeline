@@ -9,7 +9,7 @@ page.on('dialog', (dialog)=>{
     dialogMessage = dialog.message()
     expect (dialogMessage).toEqual(`Hello ${textforDialogPlaceholder}, Are you sure you want to confirm?`)
     
-    dialog.accept()
+    dialog.accept();
 }
 )
 
